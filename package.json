@@ -9,7 +9,8 @@
   },
   "bin": "bin/detective.js",
   "dependencies": {
-    "acorn-node": "^1.8.2",
+    "acorn-node": "^2.0.1",
+    "acorn": "^8.13.0",
     "defined": "^1.0.0",
     "minimist": "^1.2.6"
   },
